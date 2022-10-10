@@ -37,6 +37,10 @@ main {
   width: 260px;
   transition: width 400ms ease-in-out;
   background-color: rgb(29, 155, 240);
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
 }
 
 .shrinked-nav {
