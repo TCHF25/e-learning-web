@@ -1,4 +1,4 @@
-const register = () => {
+const Register = () => {
     return (
         <form class="signup-form">
         <h1 class="sign-in-header">Sign up</h1>
@@ -34,4 +34,4 @@ const register = () => {
     }
       
         
-    export default register;
+    export default Register;
