@@ -10,17 +10,17 @@ const Sidebar = () => {
                 </div>
                 <a href="./admin.html"><button class="overeview">Overview</button></a>
                 <div class="link-list">
-                    <a href="./clients.html" class="link">
+                    <a href="" class="link">
                         <i class="fa-solid fa-users"></i>
-                        <span class="link-text">Clients</span>
+                        <span class="link-text">Instructors</span>
                     </a>
-                    <a href="./sellers.html" class="link">
+                    <a href="" class="link">
                         <i class="fa-solid fa-user-tag"></i>
-                        <span class="link-text">Sellers</span>
+                        <span class="link-text">Students</span>
                     </a>
-                    <a href="./stats.html" class="link">
+                    <a href="" class="link">
                         <i class="fa-solid fa-chart-pie"></i>
-                        <span class="link-text">Stats</span>
+                        <span class="link-text">Courses</span>
                     </a>
                 </div>
             </div>
