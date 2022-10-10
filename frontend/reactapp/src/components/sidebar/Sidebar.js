@@ -8,7 +8,7 @@ const Sidebar = () => {
                 <div class="logo-container">
                     <h1>HELLO</h1>
                 </div>
-                <a href="./admin.html"><button class="overeview">Overview</button></a>
+                <a href=""><button class="overeview">Overview</button></a>
                 <div class="link-list">
                     <a href="" class="link">
                         <i class="fa-solid fa-users"></i>
