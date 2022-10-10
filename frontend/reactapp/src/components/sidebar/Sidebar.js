@@ -6,7 +6,7 @@ const Sidebar = () => {
         <div class="side-nav">
             <div class="nav-top">
                 <div class="logo-container">
-                    
+                    <h1>HELLO</h1>
                 </div>
                 <a href="./admin.html"><button class="overeview">Overview</button></a>
                 <div class="link-list">
