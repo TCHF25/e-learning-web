@@ -21,7 +21,7 @@ const register = () => {
                 <div class="input-container">
                     <input type="password" name="password" id="passwordInput" class="age-input"
                         placeholder="Enter your password"/>
-                    <label for="AgeInput"></label>
+                    <label for="typeInput">Admin, Instructor or Student</label>
                 </div>
                 <h2 id="response" class="response opacity">.</h2>
             </div>
